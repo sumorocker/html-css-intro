@@ -60,3 +60,33 @@ nav li {
 nav a {
     text-decoration: none;
 }
+
+footer{
+    background-color:black;
+    color: white;
+    overflow:hidden;
+}
+
+footer a{
+    color: tomato;
+}
+
+.other{
+    width:50%;
+    float: left;
+}
+
+.partners{
+    width:50%;
+    float:left;
+}
+
+footer li{
+    list-style-type: none;
+    text-align: left;
+    display: inline-block;
+}
+
+footer img {
+    width:100px;
+}
