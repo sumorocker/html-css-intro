@@ -25,6 +25,16 @@ section {
 
 .schedule {
     background-color: tomato;
+    padding-bottom :10px;
+}
+
+table th, table td{
+    border-width:1px;
+    border-color:lightgray;
+    border-style:solid;
+    padding:10px;
+    border-collapse:collapse;
+    background-color:white;
 }
 
 .curriculum {
